@@ -1,5 +1,9 @@
 # Supertienda
 
-El dataset a analizar se extrajo de la plataforma Kaggle.com 
-Las datos obtenidos se procesaron mediante Microsoft Exel y se depuro lo que no era necesario.
-Se generaron las tablas relacionales que posteriormente se modelaron con Microsoft SQL Server para enlazar las bases relacionales se utilizó la herramienta de Power BI que puede extraer directamente los datos de dichas bases.
+El dataset a analizar se EXTRAJO de la plataforma Kaggle.
+
+Las datos obtenidos se PROCESARON con Microsoft Exel estructurandolos mediante la generacion de tablas que posteriormente se relacionarian para su correcta modelizacion
+
+La etapa de LIMPIEZA fue hecha con Microsoft SQL Server con la cual se utilizaron sentencias tanto para la depuracion de datos incompletos, duplicados o erroneos
+
+Por ultimo mediante la herramienta Microsoft Power BI se procedio a ANALIZAR y COMUNICAR los datos mediante visualizaciones variadas.
